@@ -18,33 +18,8 @@
   },
   "sec": {
     "enable": true,
+    "smooth": true,
     "x_offset": 0,
     "y_offset": 0
-  },
-  "label": [
-    {
-      "enable": true,
-      "type": "date",
-      "label": "%d",
-      "font_color": "#000000",
-      "align": "center",
-      "font_size": 16,
-      "x_offset": 185,
-      "y_offset": 113,
-      "x_size": 20,
-      "y_size": 13
-    },
-    {
-      "enable": true,
-      "type": "battery_percent",
-      "label": "%3d%%",
-      "font_color": "#000000",
-      "font_size": 12,
-      "align": "center",
-      "x_offset": 90,
-      "y_offset": 155,
-      "x_size": 60,
-      "y_size": 40
-    }
-  ]
+  }
 }
