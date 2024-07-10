@@ -35,7 +35,7 @@
       "y_size": 13
     },
     {
-      "enable": false,
+      "enable": true,
       "type": "battery_percent",
       "label": "%3d%%",
       "font_color": "#000000",
